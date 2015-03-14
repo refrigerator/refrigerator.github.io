@@ -15,5 +15,5 @@ Over the past few years, a lot of the life advice I've read has included keeping
 
 (these are in no particular order)
 
-I feel like I should have some sort of religious goal on here, because I do want to learn more about Islam and become a better Muslim, but I haven't decided specifically how I'll do this yet, so I'll hopefully update this post in the next few days.
+I feel like I should have some sort of religious goal on here because I do want to learn more about Islam and become a better Muslim, but I haven't decided specifically how I'll do this yet, so I'll hopefully update this post in the next few days.
 
