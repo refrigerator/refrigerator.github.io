@@ -28,7 +28,7 @@ html {
 
 body {
 	background: $white;
-  font: 19px/1.5 'Taimur Serif';
+  font: 19px/1.55 'Taimur Serif';
   color: $darkGray;
 }
 
@@ -54,7 +54,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 34px;
+  margin-bottom: 0;
+  line-height: 1.55;
   a {
     color: inherit;
   }
